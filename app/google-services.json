@@ -1,6 +1,6 @@
 {
   "project_info": {
-    "project_number": "506677847819",
+    "project_number": "5634571879",
     "firebase_url": "https://my-application-413f2.firebaseio.com",
     "project_id": "my-application-413f2",
     "storage_bucket": "my-application-413f2.appspot.com"
@@ -8,14 +8,14 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:506677847819:android:5609acbcdb13a38958640e",
+        "mobilesdk_app_id": "1:5486432882:android:5609acbcdb13a38958640e",
         "android_client_info": {
           "package_name": "com.example.myapplication"
         }
       },
       "oauth_client": [
         {
-          "client_id": "506677847819-6r49iemtpfk36sgamn9f8f8th3ktj8ti.apps.googleusercontent.com",
+          "client_id": "5634571879:AAFY0vfLTEURL5kqAoR3NP7ObX8J88RelfE.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.myapplication",
